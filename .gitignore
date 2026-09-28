@@ -1,0 +1,36 @@
+# Compiled Java files
+*.class
+
+# Java build output
+out/
+bin/
+target/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Game-generated files
+highscore.txt
+
+# Logs
+*.log
